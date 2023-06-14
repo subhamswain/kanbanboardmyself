@@ -1,0 +1,7 @@
+.container {
+   
+    
+    gap: 3px;
+    width: 300px;
+    border:  5px solid rgb(9, 8, 8);
+}
